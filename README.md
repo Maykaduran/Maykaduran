@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # 👋 ¡Hola! Soy Mayka Durán
 
 💻 Analista de datos con más de 7 años de experiencia en transformación de procesos y operativa, especialmente en el sector financiero.
