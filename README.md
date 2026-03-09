@@ -56,11 +56,17 @@ Incluye **Capitalisimo**, un quiz de capitales del mundo con decisiones finales 
 
 ---
 
-## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/Maykaduran/)
--  maykaduran@gmail.com
+## 📩 Contacto
+
+<p align="center">
+  <a href="mailto:maykaduran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/mdelcarmenduran">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
-
-## 📊 GitHub Stats
 
